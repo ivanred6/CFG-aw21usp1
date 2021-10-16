@@ -1,1 +1,3 @@
-# CFG-aw21usp1
+# CodeFirstGirls Repository
+University of Suffolk Course \ October 2021 to December 2021
+
